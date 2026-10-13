@@ -11,6 +11,26 @@
 ![image alt](dividers.gif)
 
 <details>
+<summary>𖥻 ׁ ׅ  Intro ! ﹒  ◡◡</summary>
+
+
+ 𓏲🪽˚. ˖ . ݁ My name Is Apple !
+
+ 𓏲🪽˚. ˖ . ݁ I am an ADULT teen.
+
+   𓏲🪽˚. ˖ . ݁ 10 under dni. 25 DNI
+
+    𓏲🪽˚. ˖ . ݁ 
+
+
+
+
+
+
+
+</details>
+
+<details>
 <summary>𖥻 ׁ ׅ  byi ! ﹒  ◡◡</summary>
 
 ֺּׅ𓏽⑅ — Please Int with Extreme caution if I barely know you, Since I'm not very good around unfamiliar people. I'd love to talk with you but Kindly start the Convo first since I don't know how to start one .. ༎ຶ⁠‿⁠༎ຶ
