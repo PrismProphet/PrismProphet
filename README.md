@@ -2,6 +2,15 @@
 ![image alt](Untitled58_20261019045400.png)
 
 
+[![Hits](https://hits.sh/github.com/BeezieBug.svg?style=plastic&label=Fact%20attack&extraCount=895&color=ddc11a&labelColor=686868)](https://hits.sh/github.com/BeezieBug/)
+
+
+
+
+
+
+
+
 ![image alt](dividers.gif)
 
 <details>
@@ -44,7 +53,7 @@ absolutely interested in drawings and I'm heavily offtab . w2i when My title has
 ⠀⠀ ㅤㅤ  __⁰⁰ __       ♡♡  ݁     e     
 ⠀ ⠀⠀ ㅤ
 
-Eunoia #1 fan 
+
 
 
 
@@ -55,7 +64,7 @@ Eunoia #1 fan
 
 ㅤ ׅ 𝄂𝄚𝅦𝄚𝄞𝅄ㅤ
 
-Interested In : DreamGame . Forsaken . Law Of Talos . MLBB . Aphmau . Genshin Impact . Vocaloid . PjSk . Umamusume . AlienStage . McYt . GoofyGang . Die Of Death . Grace . Doors . Mr.Hopps Play house . Others . more.
+Interested In : DreamGame . Forsaken . Law Of Talos . MLBB . Aphmau . Genshin Impact . Vocaloid . PjSk . Umamusume . AlienStage . McYt . GoofyGang . Die Of Death . Grace . Doors . Mr.Hopps Play house . Others . FAA .
 
 ☾⋆. 𐙚 ˚𓊆ྀི❤︎𓊇⋆. 𐙚 ̊☽ 
 
