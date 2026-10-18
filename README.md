@@ -14,7 +14,7 @@
 ![image alt](tumblr_1495002026560b179e4c360858ec5d47_861efbf5_1280.gif.webp)
 
 <details>
-<summary>𖥻 ׁ ׅ  Intro ! ﹒  ◡◡</summary>
+<summary># 𖥻 ׁ ׅ  Intro ! ﹒  ◡◡</summary>
 
 
  𓏲🪽˚. ˖ . ݁ My name Is Apple !
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-<summary>𖥻 ׁ ׅ  byi ! ﹒  ◡◡</summary>
+<summary># 𖥻 ׁ ׅ  byi ! ﹒  ◡◡</summary>
 
 ֺּׅ𓏽⑅ — Please Int with Extreme caution if I barely know you, Since I'm not very good around unfamiliar people. I'd love to talk with you but Kindly start the Convo first since I don't know how to start one .. ༎ຶ⁠‿⁠༎ຶ
 
@@ -72,7 +72,7 @@ Interested In : DreamGame . Forsaken . Law Of Talos . MLBB . Aphmau . Genshin Im
 </details>
 
 <details>
-<summary>𐔌   ᛝBlinkies.ᐟ  𐂯</summary>
+<summary>#𐔌   ᛝBlinkies.ᐟ  𐂯</summary>
 
 ![image alt](blinkiesCafe-77.gif)
 ![image alt](blinkiesCafe-mN.gif)
