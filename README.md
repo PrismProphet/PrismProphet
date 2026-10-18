@@ -11,7 +11,7 @@
 
 
 
-![image alt](dividers.gif)
+![image alt](tumblr_1495002026560b179e4c360858ec5d47_2844a80e_500)
 
 <details>
 <summary>𖥻 ׁ ׅ  Intro ! ﹒  ◡◡</summary>
