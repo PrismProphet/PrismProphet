@@ -60,7 +60,7 @@ absolutely interested in drawings and I'm heavily offtab . w2i when My title has
 </details>
 
 <details>
-<summary>🩹﹕𐔌・interests〃・꒱</summary>
+<summary><h3><span style="color: green;">🩹﹕𐔌・interests〃・꒱</span></h3></summary>
 
 ㅤ ׅ 𝄂𝄚𝅦𝄚𝄞𝅄ㅤ
 
@@ -101,4 +101,3 @@ Interested In : DreamGame . Forsaken . Law Of Talos . MLBB . Aphmau . Genshin Im
 ![image alt](Untitled60_20261019052154.png)
 
 
-![image alt](fba8b3b9a3d75d173c0899f6a043d17a.jpg)
