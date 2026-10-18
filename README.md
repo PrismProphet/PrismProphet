@@ -11,7 +11,7 @@
 
 
 
-![image alt](tumblr_1495002026560b179e4c360858ec5d47_2844a80e_500)
+![image alt](tumblr_1495002026560b179e4c360858ec5d47_861efbf5_1280.gif.webp)
 
 <details>
 <summary>𖥻 ׁ ׅ  Intro ! ﹒  ◡◡</summary>
