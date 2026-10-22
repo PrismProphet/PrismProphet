@@ -11,7 +11,14 @@
 <details>
 <summary>. Dni </summary>
 
-Your dni here.
+---
+Proshippers .
+problematic people .
+racist people .
+other problematic medias .
+people who disrespect .
+insensitive people .
+etc .
 
 </details>
 
@@ -29,7 +36,6 @@ Your pronouns here.
 
 </details>
 
-<details>
 
 ## Links
 
