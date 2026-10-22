@@ -36,8 +36,8 @@ Your info here.
 </details>
 
 
+  [ata](https://whalerus.atabook.org]
 
-[ata](https://whalerus.atabook.org)
 
 [strpg](https://httpsappleisawesome.straw.page)
 
