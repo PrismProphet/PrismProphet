@@ -1,26 +1,35 @@
+HTML
 <details>
-<summary>💛 𝒅𝒏𝒊</summary>
+<summary>
+  <img src="https://img.shields.io/badge/dni-8A2BE2?style=flat-square" alt="dni"/>
+</summary>
 
 Your DNI content here!
 
 </details>
 
 <details>
-<summary>💛 𝑩𝒚𝒊</summary>
+<summary>
+  <img src="https://img.shields.io/badge/Byi-8A2BE2?style=flat-square" alt="Byi"/>
+</summary>
 
 Your BYI content here!
 
 </details>
 
 <details>
-<summary>💛 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔</summary>
+<summary>
+  <img src="https://img.shields.io/badge/interests-8A2BE2?style=flat-square" alt="interests"/>
+</summary>
 
 Your interests here!
 
 </details>
 
 <details>
-<summary>💛 𝒑𝒓𝒏𝒔</summary>
+<summary>
+  <img src="https://img.shields.io/badge/prns-8A2BE2?style=flat-square" alt="prns"/>
+</summary>
 
 Your pronouns here!
 
