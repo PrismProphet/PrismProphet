@@ -1,36 +1,38 @@
-HTML
-<details>
-<summary>
-  <img src="https://img.shields.io/badge/dni-8A2BE2?style=flat-square" alt="dni"/>
-</summary>
+Ata
 
-Your DNI content here!
+<details>
+<summary>dni</summary>
+
+Your dni here.
 
 </details>
 
 <details>
-<summary>
-  <img src="https://img.shields.io/badge/Byi-8A2BE2?style=flat-square" alt="Byi"/>
-</summary>
+<summary>Byi</summary>
 
-Your BYI content here!
+Your byi here.
 
 </details>
 
 <details>
-<summary>
-  <img src="https://img.shields.io/badge/interests-8A2BE2?style=flat-square" alt="interests"/>
-</summary>
+<summary>Prns</summary>
 
-Your interests here!
+Your pronouns here.
 
 </details>
 
 <details>
-<summary>
-  <img src="https://img.shields.io/badge/prns-8A2BE2?style=flat-square" alt="prns"/>
-</summary>
+<summary>Ata</summary>
 
-Your pronouns here!
+About me.
 
 </details>
+
+<details>
+<summary>strpg</summary>
+
+Your info here.
+
+</details>
+
+ata · strpg
