@@ -35,4 +35,12 @@ Your info here.
 
 </details>
 
-ata · strpg
+
+```
+[ata](https://whalerus.atabook.org)
+
+[strpg](https://httpsappleisawesome.straw.page)
+
+[gunslol](https://guns.lol/appleqk)
+```
+
