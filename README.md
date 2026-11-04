@@ -1,6 +1,5 @@
 # MIGHT REMAKE!
 
-![image alt](Untitled58_20261022144243.png)
 
 
 
@@ -45,7 +44,7 @@ I'm a Non-binary . any pronouns are okay but strictly no it/it's. I use mirror p
 ## Links
 
 
-  [ata](https://whalerus.atabook.or)
+  [ata](https://whalerus.atabook.org)
 
 
 [strpg](https://httpsappleisawesome.straw.page)
