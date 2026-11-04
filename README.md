@@ -34,7 +34,7 @@ etc .
 
 
 
-
+[![Hits](https://hits.sh/github.com/Chemicalshot.svg?style=plastic&label=Fact%20attack&extraCount=589&color=f3ff00&labelColor=9aec0f)](https://hits.sh/github.com/Chemicalshot/)
 
 
 
