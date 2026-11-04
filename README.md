@@ -10,7 +10,8 @@
 
 
 <details>
-<summary><img src="tumblr_lkl5p4GxXx1qfamg6540.gif" alt="Description" width="32" height="32">
+<summary><img src="tumblr_lkl5p4GxXx1qfamg6540.gif" alt="Description" width="10" height="10">
+ 
  Dni </summary>
 
 ---
