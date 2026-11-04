@@ -41,6 +41,10 @@ etc .
 [strpg](https://httpsappleisawesome.straw.page) +
 [gunslol](https://guns.lol/appleqk)
 
+<img src="47a79fd7.gif" alt="Description" width="15" height="15">
+                 
+               
+
 ![image alt](tumblr_inline_mlb1zwEcDP1qz4rgp540.gif)
 
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
