@@ -14,7 +14,7 @@ _ _ 𓂃  "    e 𓈒        　。
 
 
 <details>
-<summary><img src="tumblr_lkl5p4GxXx1qfamg6540.gif" alt="Description" width="15" height="15">
+<summary><img src="tumblr_91b4a30dd80c88cf7d140fc32d42419c_6d4a3d99_75.gif" alt="Description" width="15" height="15">
  Dni </summary>
 
 ---
