@@ -5,12 +5,13 @@
 
 
 
-![image alt](tumblr_inline_mlb1zwEcDP1qz4rgp540.gif)
+
 
 
 
 <details>
-<summary>. Dni </summary>
+<summary><img src="tumblr_lkl5p4GxXx1qfamg6540.gif" alt="Description" width="32" height="32">
+ Dni </summary>
 
 ---
 Proshippers .
@@ -51,4 +52,4 @@ I'm a Non-binary . any pronouns are okay but strictly no it/it's. I use mirror p
 
 [gunslol](https://guns.lol/appleqk)
 
-
+![image alt](tumblr_inline_mlb1zwEcDP1qz4rgp540.gif)
