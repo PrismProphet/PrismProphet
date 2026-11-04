@@ -29,15 +29,15 @@ etc .
  
 </details>
 
-<details>
 
 
 
 
 
 
-  [ata](https://whalerus.atabook.org) and
-[strpg](https://httpsappleisawesome.straw.page) and
+
+  [ata](https://whalerus.atabook.org) +
+[strpg](https://httpsappleisawesome.straw.page) +
 [gunslol](https://guns.lol/appleqk)
 
 ![image alt](tumblr_inline_mlb1zwEcDP1qz4rgp540.gif)
