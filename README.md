@@ -1,6 +1,6 @@
 # MIGHT REMAKE!
 
-![image alt](Untitled68_20261104161356.png)
+![image alt](Untitled68_20261104162023.png)
 
 
 
