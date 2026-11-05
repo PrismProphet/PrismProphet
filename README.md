@@ -3,8 +3,9 @@ some people are so dumb, so fucking dumb. like wtf bro, copying my lightbulb cos
 
 
 <details>
-<summary>.
+<summary>.</summary>
 this is heavily targeted, people who have read this and not the person I'm specifically targeting it's not your fault it's the copycats fault. 
 
 
 </details>
+
