@@ -5,13 +5,13 @@
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Arial&size=14&pause=1000&color=FFCB1F&center=false&vCenter=true&width=400&height=25&lines=Would+you+look+at+that!;A+woolly+mammoth!;She's+a+mama!;Thank+you,+mama." alt="Typing SVG" />
-
-
 
 
 
 ![image alt](Untitled68_20261104162023.png)
+
+
+<img src="https://readme-typing-svg.demolab.com/?font=Arial&size=14&pause=1000&color=FFCB1F&center=false&vCenter=true&width=400&height=25&lines=Would+you+look+at+that!;A+woolly+mammoth!;She's+a+mama!;Thank+you,+mama." alt="Typing SVG" />
 
 
 
