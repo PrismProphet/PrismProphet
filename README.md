@@ -54,7 +54,7 @@ etc .
 
 ![image alt](tumblr_inline_mlb1zwEcDP1qz4rgp540.gif)
 
-[![Lightbulb](https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=bold&size=22&pause=1500&center=true&vCenter=true&width=800&height=150&lines=Would+you+look+at+that!+A+woolly+mammoth!;What+beautiful+animals!;While+we're+shivering+in+this+bitter+cold%2C;these+gentle+giants+make+do+with+a;gnarly+winter+coat.;She's+a+mama!;Thank+you%2C+mama.;I+don't+think+petting+a+woolly+mammoth;was+a+good--;...+%3F;Hello%3F;Hello..%3F)](https://github.com/DenverCoder1/readme-typing-svg)
+<img src="https://readme-typing-svg.demolab.com/?font=Comic+Neue&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Would+you+look+at+that!;A+woolly+mammoth!;She's+a+mama!;Thank+you,+mama." alt="Typing SVG" />
 
 
 
