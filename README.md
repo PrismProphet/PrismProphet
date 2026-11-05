@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=bold&size=22&pause=1000&color=EBE834&center=true&vCenter=true&width=600&lines=HEY+EVERYONE!+%F0%9F%92%A1;WELCOME+TO+THE+SKATEPARK!;LET'S+GO+SKATING!;WHOA!+THAT+WAS+AWESOME!;WAIT...+DID+YOU+SEE+THAT%3F" alt="Lightbulb typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=bold&size=22&pause=1000&color=EBE834&center=true&vCenter=true&width=600&lines=HEY+EVERYONE!+%F0%9F%92%A1;WELCOME+TO+THE+SKATEPARK!;LET'S+GO+SKATING!;WHOA!+THAT+WAS+AWESOME!;WAIT...+DID+YOU+SEE+THAT%3F" alt="Lightbulb typing animation"/>
 
 
 
