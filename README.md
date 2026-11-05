@@ -4,6 +4,14 @@
 
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
 
+
+<img src="https://readme-typing-svg.demolab.com/?font=Comic+Neue&size=22&pause=1000&color=FFCB1F&center=true&vCenter=true&width=600&lines=Would+you+look+at+that!;A+woolly+mammoth!;She's+a+mama!;Thank+you,+mama." alt="Typing SVG" />
+
+
+
+
+
+
 ![image alt](Untitled68_20261104162023.png)
 
 
@@ -53,9 +61,5 @@ etc .
                
 
 ![image alt](tumblr_inline_mlb1zwEcDP1qz4rgp540.gif)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Comic+Neue&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Would+you+look+at+that!;A+woolly+mammoth!;She's+a+mama!;Thank+you,+mama." alt="Typing SVG" />
-
-
 
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
