@@ -6,10 +6,13 @@
 
 
 <img src="47a79fd7.gif" alt="Description" width="15" height="15">
-_ _ 𓂃  "    e 𓈒        　。
+
+$\color{#f0991f}{\text{_ _ 𓂃  "    e 𓈒        　。
 ໒ ͡ㅤㅤㅤㅤ Appleㅤㅤㅤ﹕ ₒᵣ Voil 𓎟
 ⏖𓈒ㅤㅤㅤthey ׄㅤㅤthem
  ㅤㅤㅤㅤㅤ 𓏏𓏏ㅤㅤㅤׅㅤㅤe ᛝ
+ }}$.
+ 
 <img src="245.gif" alt="Description" width="15" height="15">
 
 
