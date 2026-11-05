@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=bold&size=22&pause=1200&color=EBE834&center=true&vCenter=true&width=700&height=180&lines=would+you+look+at+that!+A+woolly+mammoth!;What+beautiful+animals!+While+we're+shivering+in+this+bitter+cold%2C+these+gentle+giants+make+do+with+a+gnarly+winter+coat.;She's+a+mama!;Thank+you%2C+mama.;I+don't+think+petting+a+woolly+mammoth+was+a+good--;...+%3F;Hello%3F;Hello..%3F" alt="Lightbulb typing animation" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=bold&size=22&pause=1200&center=true&vCenter=true&width=700&height=180&lines=would+you+look+at+that!+A+woolly+mammoth!;What+beautiful+animals!+While+we're+shivering+in+this+bitter+cold%2C+these+gentle+giants+make+do+with+a+gnarly+winter+coat.;She's+a+mama!;Thank+you%2C+mama.;I+don't+think+petting+a+woolly+mammoth+was+a+good--;...+%3F;Hello%3F;Hello..%3F" alt="Lightbulb typing animation" />
 
 
 
