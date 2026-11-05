@@ -5,7 +5,7 @@
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Comic+Neue&size=22&pause=1000&color=FFCB1F&center=true&vCenter=true&width=600&lines=Would+you+look+at+that!;A+woolly+mammoth!;She's+a+mama!;Thank+you,+mama." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Comic+Neue&size=18&pause=1000&color=FFCB1F&center=true&vCenter=true&width=500&height=100&lines=Would+you+look+at+that!;A+woolly+mammoth!;She's+a+mama!;Thank+you,+mama." alt="Typing SVG" />
 
 
 
