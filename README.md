@@ -8,8 +8,8 @@
 <img src="47a79fd7.gif" alt="Description" width="15" height="15">
 
 _ _ 𓂃  "    e 𓈒        　。
-໒ ͡ㅤㅤㅤㅤ $\color{#eb4034}{\text{Apple}}$ㅤㅤㅤ﹕ ₒᵣ Voil 𓎟
-⏖𓈒ㅤㅤㅤthey ׄㅤㅤthem
+໒ ͡ㅤㅤㅤㅤ $\color{#eba834}{\text{Apple}}$ㅤㅤㅤ﹕ ₒᵣ $\color{#ebc034}{\text{Voil}}$ 𓎟
+⏖𓈒ㅤㅤㅤ$\color{#ebe834}{\text{they}}$ ׄㅤㅤ$\color{#d2eb34}{\text{them}}$
  ㅤㅤㅤㅤㅤ 𓏏𓏏ㅤㅤㅤׅㅤㅤe ᛝ
  
  
