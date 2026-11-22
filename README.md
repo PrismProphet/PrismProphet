@@ -23,7 +23,7 @@
 
 <details>
 <summary><img src="tumblr_91b4a30dd80c88cf7d140fc32d42419c_6d4a3d99_75.gif" alt="Description" width="15" height="15">
- $\color{#ebe834}{\text{dni}}$ </summary>
+ $\color{#F1B581}{\text{dni}}$ </summary>
 
 ---
 Proshippers .
@@ -40,8 +40,7 @@ etc .
 
 
 
-[![Hits](https://hits.sh/github.com/Chemicalshot.svg?label=Fact%20Attack&extraCount=589&color=df9617&labelColor=23a30a)](https://hits.sh/github.com/Chemicalshot/)
-
+[![Hits](https://hits.sh/github.com/Chemicalshot.svg?color=F1B581&labelColor=ffefe5)](https://hits.sh/github.com/Chemicalshot/)
 
 
 
