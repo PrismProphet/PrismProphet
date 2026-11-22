@@ -13,8 +13,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=F1B581&width=500&lines=Dinosaurs!+Go;Rawr!;Rawr!;Rawr!;Rawr!)](https://git.io/typing-svg)
 
-<img src="47a79fd7.gif" alt="Description" width="15" height="15">
-
 
 <img src="245.gif" alt="Description" width="15" height="15">
 
