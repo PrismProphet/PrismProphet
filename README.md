@@ -11,7 +11,7 @@
 ![image alt](Untitled75_20261122215912.png)
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Arial&size=14&pause=1000&color=FFCB1F&center=false&vCenter=true&width=400&height=25&lines=Would+you+look+at+that!;A+woolly+mammoth!;She's+a+mama!;Thank+you,+mama." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F1B581&width=500&lines=Dinosaurs!+Go;Rawr!;Rawr!;Rawr!;Rawr!)](https://git.io/typing-svg)
 
 
 
