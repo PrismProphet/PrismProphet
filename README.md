@@ -8,10 +8,7 @@
 
 
 
-![image alt](Untitled75_20261122215912.png)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=F1B581&width=500&lines=Dinosaurs!+Go;Rawr!;Rawr!;Rawr!;Rawr!)](https://git.io/typing-svg)
+![image alt](Untitled77_20261126145756.png)
 
 
 <img src="245.gif" alt="Description" width="15" height="15">
@@ -21,7 +18,7 @@
 
 <details>
 <summary><img src="tumblr_91b4a30dd80c88cf7d140fc32d42419c_6d4a3d99_75.gif" alt="Description" width="15" height="15">
- $\color{#F1B581}{\text{dni}}$ </summary>
+ $\color{#FFDE92}{\text{dni}}$ </summary>
 
 ---
 Proshippers .
@@ -38,7 +35,7 @@ etc .
 
 
 
-[![Hits](https://hits.sh/github.com/Chemicalshot.svg?color=F1B581&labelColor=ffefe5)](https://hits.sh/github.com/Chemicalshot/)
+[![Hits](https://hits.sh/github.com/Chemicalshot.svg?color=FFDE92&labelColor=ffefe5)](https://hits.sh/github.com/Chemicalshot/)
 
 
 
