@@ -35,7 +35,7 @@ etc .
 
 
 
-[![Hits](https://hits.sh/github.com/Chemicalshot.svg?color=FFDE92&labelColor=#fa5448)](https://hits.sh/github.com/Chemicalshot/)
+[![Hits](https://hits.sh/github.com/Chemicalshot.svg?style=flat-square&label=Paleontologists&color=ffc955&labelColor=fa6c48)](https://hits.sh/github.com/Chemicalshot/)
 
 
 
