@@ -8,7 +8,7 @@
 
 
 
-![image alt](Untitled77_20261126151338.png
+![image alt](Untitled77_20261126151338.png)
 
 
 <img src="245.gif" alt="Description" width="15" height="15">
@@ -45,6 +45,9 @@ etc .
                  
                
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
+
+
+art by : @sammy from Pinterest!
 
                  
                
